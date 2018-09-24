@@ -1,5 +1,3 @@
-
-
 <?php include "inc/html-top.inc";?>
 <title>Kevin Kao</title>
 </head>
