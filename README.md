@@ -8,7 +8,7 @@ Coder: Aliye Gallagher
 ## Ontology:   
 _"Technically, We're All Connected: A Profile of 3 Students in STEAM"_
 
-These students all three have involvement in technoloy, whether it is Digital Arts like Valerie,
+These students all three have involvement in technoloy, whether it is in Digital Arts like Valerie,
 buiness tech and entrepreneurship, like Lingling/Lily, or engineering like Kevin.
 For this reason, I elected to make the STEAM connection between the 3.  There is no rational order, currently, for the order of students or pages. 
 
