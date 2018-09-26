@@ -1,9 +1,9 @@
 # Vancouver  
 For CSC 174 Assignment 3: "Flash" Website
 
-IA: Cassidy Clayton
-Designer: Lihui Guo
-Coder: Aliye Gallagher
+IA: Cassidy Clayton  
+Designer: Lihui Guo  
+Coder: Aliye Gallagher  
 
 ## Ontology:   
 _"Technically, We're All Connected: A Profile of 3 Students in STEAM"_
