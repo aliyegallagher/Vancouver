@@ -14,3 +14,7 @@ For this reason, I elected to make the STEAM connection between the 3.
 
 Each personal page opens with a header and nav, followed by an image of the student, and then four headings: "About Me", "Early Life and
 Education", "Experience", and "Goals". 
+
+There will be links on the index page images to carry through to each person's respective page, as well as the original nav bar, and a "read more" link" 
+
+Once on the individual students' pages, the navigation is relegated to the nav bar at the top. 
