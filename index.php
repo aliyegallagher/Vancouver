@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-	<meta charset="utf-8">
+<?php include "inc/html-top.inc";?>
 	<title>Flash Website</title>
-	<link rel="stylesheet" href="css/styles.css">
-	<link rel="stylesheet" href="css/navigation.css">
-	<link rel="stylesheet" type="text/css" href="css/current.css">
-	<link rel="icon" href="img/icon.png">
 </head>
 
 <body>
