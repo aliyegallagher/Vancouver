@@ -10,6 +10,8 @@ For this reason, I elected to make the STEAM connection between the 3.
 
 ## Taxonomy:  
 
+In progress; working on making sure all headings line up appropriately, and that the individual sites are comparable links. 
+
 ## Choreography:    
 
 Each personal page opens with a header and nav, followed by an image of the student, and then four headings: "About Me", "Early Life and
