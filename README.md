@@ -1,5 +1,5 @@
 # Vancouver  
-For CSC 174 Assignment 3: "Flash" Website
+For CSC 174 Assignment 05: Forking a Website
 
 IA: Cassidy Clayton  
 Designer: Lihui Guo  
