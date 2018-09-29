@@ -6,25 +6,44 @@ Watermelon - #FF383F
 Neutral - #EFEFEF
 */
 
-.menu li {
-	display: inline-block;
-	padding: 2px;
-	border: 1px solid #828282;
-	width: 120px;
-	text-align: center;
+.menu {
+	border-bottom: 3px groove #CAEBF2;
+	margin-bottom: 20px;
 }
 
-.menu a {
-	display: inline-block;
-	overflow: auto;
-}
-
-/* .menu ul {
+.menu ul {
 	margin: 0;
 	padding-left: 0; 
 	list-style-type: none;
+	text-decoration: none;
+	text-align: center;
 }
 
+.menu li {
+	display: inline-block;
+	width: 120px;
+}
+
+.menu a {
+	display: flex;
+	text-decoration: none;
+	padding: 3px;
+	color: #A9A9A9; 
+	background-color: #CAEBF2;
+	justify-content: center;
+}
+
+.menu a:hover {
+	background-color: #A9A9A9; 
+	color: #CAEBF2;
+}
+
+.menu a:is-current {
+	color: #FF383F;
+}
+
+
+/*
 .menu li { 
 	border: 1px solid #828282; 
 	border-radius: 5px;

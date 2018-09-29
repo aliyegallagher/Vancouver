@@ -24,7 +24,6 @@
 
 
     <main>
-       <img src="img/line.jpg" alt="section line">
       
         <div class = "kevin">
           <figure>
@@ -89,9 +88,6 @@
       <div>
         <a href="http://csc174.org/assignment01/kkao4/">Initial Personal Webpage | Kevin</a>
       </div>
-
-      <img class="img1" src="img/line.jpg" alt="section line">
-      <?php include "inc/nav.inc"; ?>
       
       <div class="bottom">
       This webpage by Team Vancouver.

@@ -22,10 +22,9 @@
 		<?php include "inc/nav.inc"; ?>
 
 		<main>
-			<img class="img1" src="img/line.jpg" alt="section line">
 
 
-		<figure class="img2">
+		<figure>
 			<img src="img/lingling-headshot.jpg" alt="the picture of Lingling">
 
 			<figcaption>
@@ -81,9 +80,6 @@
 		<div>
 			<a href="http://www.csc174.org/assignment01/lli53/index.php">Initial Personal Webpage | Lingling</a>
 		</div>
-
-		<img class="img1" src="img/line.jpg" alt="section line">
-	 	<?php include "inc/nav.inc"; ?>
 	 	
 		<div class="bottom">
 			This webpage by Team Vancouver. 

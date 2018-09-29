@@ -17,8 +17,8 @@
 		<?php include "inc/nav.inc"; ?>
 
 		<main>
-			<img class="img1" src="img/line.jpg" alt="section line">
-		<figure class = "img3">
+			
+		<figure>
 				<img src="img/valerie-headshot.jpg" alt="Valerie Tam">
 				<figcaption>Here's a picture of Valerie</figcaption>
 			</figure>
@@ -81,9 +81,6 @@
 			<div>
 				<a href="http://csc174.org/assignment01/vtam/index.html">Initial Personal Webpage | Valerie</a>
 			</div>
-
-			<img class="img1" src="img/line.jpg" alt="section line">
-	 		<?php include "inc/nav.inc"; ?>
 	 		
 			<div class="bottom">
 			This webpage by Team Vancouver. 

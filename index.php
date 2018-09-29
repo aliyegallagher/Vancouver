@@ -23,14 +23,11 @@
 
 	<main>
 
-		<img class="img1" src="img/line.jpg" alt="section line">
-
-
 		<h2 class="hometitle"> 
 			Lingling | Brief Introduction
 		</h2>
 
-		<figure class="img2">
+		<figure class="img1">
 			<img src="img/lingling-headshot.jpg" alt="the picture of Lingling">
 			<figcaption class="figcaption1">
 				Here is a picture of Lingling
@@ -46,7 +43,7 @@
 			Valerie | Brief Introduction
 		</h2>
 
-		<figure class="img3">
+		<figure class="img2">
 			<img src="img/valerie-headshot.jpg" alt="Valerie Tam">
 			<figcaption class="figcaption1">
 				Here is a picture of Valerie.
@@ -62,7 +59,7 @@
 			Kevin | Brief Introduction
 		</h2>
 
-		<figure class="img2" >
+		<figure class="img3" >
 			<img src="img/kevin-headshot.jpg" alt="Kevin Kao">
 			<figcaption class="caption">
 				Kevin in his freshman dorm

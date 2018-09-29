@@ -17,14 +17,51 @@ body {
 	max-width: 960px;
 }
 
-h1 { 
+h1 {
+	text-align: center;
 	font-size: x-large;
 	font-family: 'Cinzel', serif;
-	text-align: center;
+	color: #828282;
+}
+
+h2 { 
+	font-size: x-large;
+	font-family: 'Cinzel', serif;
+}
+
+.img1, .img2, .img3 {
+	float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure {
+	float: right;
+	margin-bottom: 30px;
 }
 
 img {
 	padding: 2px;
+	margin-left: 30px;
 	border: 1px solid #A9A9A9;
+	width: 300px;
 }
 
+figcaption {
+	padding-left: 30px;
+	font-style: italic;
+}
+
+a {
+	color: #FF383F;
+}
+
+a:hover {
+	color: #828282;
+}
+
+.bottom {
+	text-align: center;
+	font-style: italic;
+}
