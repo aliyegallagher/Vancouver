@@ -1,0 +1,53 @@
+/* color codes to use
+Sky blue - #CAEBF2 
+dark gray - #828282
+Carbon - #A9A9A9
+Watermelon - #FF383F
+Neutral - #EFEFEF
+*/
+
+.menu li {
+	display: inline-block;
+	padding: 2px;
+	border: 1px solid #828282;
+	width: 120px;
+	text-align: center;
+}
+
+.menu a {
+	display: inline-block;
+	overflow: auto;
+}
+
+/* .menu ul {
+	margin: 0;
+	padding-left: 0; 
+	list-style-type: none;
+}
+
+.menu li { 
+	border: 1px solid #828282; 
+	border-radius: 5px;
+	display: inline-block;
+	width: 120px;
+	text-align: center;
+} 
+
+.menu a {
+	width: auto;
+	text-decoration: none;
+	color: #A9A9A9; 
+	background-color: #CAEBF2;
+}
+
+.menu a:hover {
+	color: #EFEFEF;
+	background-color: #44819E; 
+	border-radius: 5px;
+}
+
+.menu a.is-current {
+	border-radius: 5px;
+	background-color: #2e6985;
+	color: #ffffff;
+} */
