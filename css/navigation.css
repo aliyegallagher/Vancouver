@@ -6,7 +6,7 @@ Watermelon - #FF383F
 Neutral - #EFEFEF
 */
 
-.menu .isCurrent {
+.menu .current {
 	color: red;
 	/*color: #FF383F;*/
 }
