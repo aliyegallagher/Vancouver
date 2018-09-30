@@ -1,10 +1,8 @@
 <?php
 $thisPage = "index";
+$title = "Technically, We're All Connected";
 include "inc/html-top.inc";
 ?>
-	<title>Technically, We're All Connected: A Profile of Three STEAM Students
-	</title>
-</head>
 
 <body>
 		<header>

@@ -1,9 +1,8 @@
 <?php
 $thisPage = "valerie";
+$title = "Valerie Tam";
 include "inc/html-top.inc";
 ?>
-	<title>Valerie Tam</title>
-</head>
 
 <body>
 	<header>

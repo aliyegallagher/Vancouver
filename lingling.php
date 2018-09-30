@@ -1,9 +1,9 @@
 <?php
 $thisPage = "lingling";
+$title = "Lingling Li";
 include "inc/html-top.inc";
 ?>
-	<title>Lingling Li</title>
-</head>
+
 
 <body>
 	<header>
