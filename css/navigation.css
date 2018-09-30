@@ -24,6 +24,8 @@
 	display: flex;
 	text-decoration: none;
 	padding: 3px;
+	margin-bottom: 2px;
+	border: 1px solid #A9A9A9;
 	color: #A9A9A9;
 	background-color: #CAEBF2;
 	justify-content: center;
@@ -37,4 +39,6 @@
 @media (max-width: 550px) {
 	.menu li { display: block; 
 		width: auto; }
+	.menu a { margin: 3px; 
+	}
 }
