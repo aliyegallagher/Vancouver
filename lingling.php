@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-
-<html lang="en">
-
-<head>
-	<meta charset="utf-8">	
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<?php include "inc/html-top.inc";?>
 	<title>Lingling</title>
-	<link rel="stylesheet" href="css/styles.css">
-	<link rel="stylesheet" href="css/navigation.css">
-	<link rel="stylesheet" type="text/css" href="css/current.css">
-
-	<link rel="icon" href="img/icon.png">
 </head>
 
 <body>
@@ -18,7 +7,7 @@
 	<header>
 		<h1>Lingling Li</h1>
 	</header>
-	
+
 		<?php include "inc/nav.inc"; ?>
 
 		<main>
@@ -51,13 +40,13 @@
 			</p>
 
 			<p>
-				Besides the piano, I'm also trying to explore other possibilities! For sports, I love play badminton, and successfully managed to realize my previous semester's goal to play 4 hours of sports every week. This semester, I want to explore the dancing area! 
+				Besides the piano, I'm also trying to explore other possibilities! For sports, I love play badminton, and successfully managed to realize my previous semester's goal to play 4 hours of sports every week. This semester, I want to explore the dancing area!
 			</p>
 
 		<h2 class="title">
-		 Experience 
+		 Experience
 		</h2>
-		
+
 			<p>
 				I love painting and designing, and had an internship this summer as a graphic designer in a Fin-tech company. I registered for the "Rice Crew" club to have a taste of K-pop dancing ths semester. I'm also trying to do something for the community. I passed the elections to be a D'Lion this year on Gate 6 and Gannett 6, aiming to help the first-year students move into the campus and acted as a student leader on behalf on the "social sprit”.
 			</p>
@@ -65,7 +54,7 @@
 		<h2 class="title">
 		 Goals
 		</h2>
-		
+
 			<p>
 				For my academic career: I might return to China and work for some years. After I gain some savings and accumulate some life experience, I might return to school again. I might go to more countries to finish my graduate education. I plan to stay in Australia, England, German to have my graduate education. I believe the time being a student is the happiest time in life--you can enjoy the world, enjoy the travel and enjoy the knowledge. After graduate school, I might return to work for several years, and I' like to one day maybe even start my own business.
 			</p>
@@ -80,9 +69,9 @@
 		<div>
 			<a href="http://www.csc174.org/assignment01/lli53/index.php">Initial Personal Webpage | Lingling</a>
 		</div>
-	 	
+
 		<div class="bottom">
-			This webpage by Team Vancouver. 
+			This webpage by Team Vancouver.
 		</div>
 	</footer>
  <?php include "inc/scripts.inc"; ?>
