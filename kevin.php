@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kevin Kao</title>
-  <link rel="icon" href="img/icon.png">
-  <link rel="stylesheet" href="css/styles.css">
-  <link rel="stylesheet" href="css/navigation.css">
-  <link rel="stylesheet" type="text/css" href="css/current.css">
+<?php include "inc/html-top.inc";?>
+  <title>Kevin
+  </title>
 </head>
 
 <body>
@@ -19,12 +11,12 @@
 
         <?php include "inc/nav.inc"; ?>
 
-       
+
     </header>
 
 
     <main>
-      
+
         <div class = "kevin">
           <figure>
             <img src="img/kevin-headshot.jpg" alt="profile-pic">
@@ -53,7 +45,7 @@
           When I was four years old, I had severe pneumonia, for which I stayed in the ICU for two weeks. When I was seven, I had an asthma attack on the running track during elementary school. I was taken to the ER to be treated with a nebulizer. In both cases, I would not have survived without the care of doctors, nurses, parents, and more importantly, the advanced medical technology that made treatment possible. Since then, I was determined to improve human life with technology. Technology has saved my life twice.
         </p>
 
-        <p> 
+        <p>
           I studied in Taiwan for primary and secondary education, before coming to the University of Rochester. I have a strong interest in the field of science, and I have taken many courses related to my majors (Computer Science and Mathematics) last year. For example, I took <em>CSC (170, 171, 172)</em> and <em>MTH (150, 165, 171, 172)</em>. In addition to that, I am now taking <em>CSC (173, 174, 214)</em> and <em>MTH (173, 190, 201)</em> to better prepare me for my career. I am minoring in Physics, and expect to graduate in 2021
         </p>
 
@@ -88,7 +80,7 @@
       <div>
         <a href="http://csc174.org/assignment01/kkao4/">Initial Personal Webpage | Kevin</a>
       </div>
-      
+
       <div class="bottom">
       This webpage by Team Vancouver.
       </div>
