@@ -9,7 +9,7 @@
         <?php include "inc/nav.inc"; ?>
 
 <main>
-        <div class = "kevin"> /*!!!*/
+        <div class = "kevin"> <!-!!!-!>
 	<figure>
             <img src="img/kevin-headshot.jpg" alt="profile-pic">
             <figcaption>Here's a picture of Kevin.
