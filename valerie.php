@@ -10,9 +10,9 @@
 
  <main>
 	<figure>
-		<img src="img/valerie-headshot.jpg" alt="Valerie Tam">
+		<img src="img/valerie-headshot.jpg" alt="Photo of Valerie Tam">
 		<figcaption>Here's a picture of Valerie
-			</figcaption>		
+			</figcaption>
 	</figure>
 
 	<h2 class= "title">About Me</h2>
@@ -42,7 +42,7 @@
 			</div>
 
 </main>
-	
+
 <footer>
 	<h2 class= "title">Source</h2>
 	<div><a href="http://csc174.org/assignment01/vtam/index.html">Initial Personal Webpage | Valerie</a>
@@ -50,7 +50,7 @@
 	<div class="bottom">This webpage by Team Vancouver.
 		</div>
 </footer>
-	
+
 <?php include "inc/scripts.inc"; ?>
 
 </body>

@@ -11,8 +11,8 @@
 <main>
         <div class = "kevin"> <!-!!!-!>
 	<figure>
-            <img src="img/kevin-headshot.jpg" alt="profile-pic">
-            <figcaption>Here's a picture of Kevin.
+            <img src="img/kevin-headshot.jpg" alt="Photo of Kevin Kao">
+            <figcaption>Here's a picture of Kevin
            	 </figcaption>
         </figure>
 

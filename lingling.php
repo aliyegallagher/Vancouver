@@ -7,10 +7,10 @@
 		<h1>Lingling Li</h1>
 	</header>
 	<?php include "inc/nav.inc"; ?>
-	
+
 <main>
 	<figure>
-		<img src="img/lingling-headshot.jpg" alt="the picture of Lingling">
+		<img src="img/lingling-headshot.jpg" alt="Photo of Lingling Li">
 		<figcaption>Here's a picture of Lingling
 			</figcaption>
 	</figure>
