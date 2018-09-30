@@ -7,3 +7,5 @@
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/navigation.css">
 	<link rel="icon" href="img/icon.png">
+	<title><?php echo $title; ?></title>
+</head>
