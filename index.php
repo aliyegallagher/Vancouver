@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Technically, We're All Connected: A Profile of Three STEAM Students</title>
-	<link rel="stylesheet" href="css/styles.css">
-	<link rel="stylesheet" href="css/navigation.css">
-	<link rel="stylesheet" type="text/css" href="css/current.css">
-	<link rel="icon" href="img/icon.png">
+<?php include "inc/html-top.inc";?>
+	<title>Technically, We're All Connected: A Profile of Three STEAM Students
+	</title>
 </head>
 
 <body>
@@ -23,7 +15,7 @@
 
 	<main>
 
-		<h2 class="hometitle"> 
+		<h2 class="hometitle">
 			Lingling | Brief Introduction
 		</h2>
 
@@ -76,7 +68,7 @@
 	 	<div class="bottom">
 	 		This webpage by Team Vancouver
 	 	</div>
-	 	
+
 	 </footer>
 
 	  <?php include "inc/scripts.inc"; ?>
