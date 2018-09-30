@@ -1,4 +1,3 @@
-
 <nav class="menu">
 	<ul>
 		<li><a href="index.php">Team Vancouver</a></li>
