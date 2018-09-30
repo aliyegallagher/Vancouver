@@ -33,3 +33,8 @@
 	background-color: #A9A9A9;
 	color: #CAEBF2;
 }
+
+@media (max-width: 550px) {
+	.menu li { display: block; 
+		width: auto; }
+}
