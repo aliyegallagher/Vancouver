@@ -1,11 +1,3 @@
-/* color codes to use
-Sky blue - #CAEBF2 
-dark gray - #828282
-Carbon - #A9A9A9
-Watermelon - #FF383F
-Neutral - #EFEFEF
-*/
-
 @import url('https://fonts.googleapis.com/css?family=Cinzel:400,700|Crimson+Text');
 
 body {
@@ -27,6 +19,10 @@ h1 {
 h2 { 
 	font-size: x-large;
 	font-family: 'Cinzel', serif;
+}
+
+em {
+	color: #FF383F;
 }
 
 .img1, .img2, .img3 {
