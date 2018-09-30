@@ -7,8 +7,7 @@ Neutral - #EFEFEF
 */
 
 .menu .current a {
-	color: red;
-	/*color: #FF383F;*/
+	color: #FF383F;
 }
 
 .menu {
