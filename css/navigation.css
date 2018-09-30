@@ -6,6 +6,10 @@ Watermelon - #FF383F
 Neutral - #EFEFEF
 */
 
+.menu .isCurrent {
+	color: #FF383F;
+}
+
 .menu {
 	border-bottom: 3px groove #CAEBF2;
 	margin-bottom: 20px;
@@ -38,9 +42,6 @@ Neutral - #EFEFEF
 	color: #CAEBF2;
 }
 
-.menu .isCurrent {
-	color: #FF383F;
-}
 
 
 /*
