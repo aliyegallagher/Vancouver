@@ -38,7 +38,7 @@
 		<figure class="img2">
 			<img src="img/valerie-headshot.jpg" alt="Valerie Tam">
 			<figcaption class="figcaption1">
-				Here is a picture of Valerie.
+				Here is a picture of Valerie
 			</figcaption>
 		</figure>
 
@@ -54,7 +54,7 @@
 		<figure class="img3" >
 			<img src="img/kevin-headshot.jpg" alt="Kevin Kao">
 			<figcaption class="caption">
-				Kevin in his freshman dorm
+				Here is a picture of Kevin
 			</figcaption>
 		</figure>
 
