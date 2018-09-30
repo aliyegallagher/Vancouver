@@ -4,28 +4,23 @@
 </head>
 
 <body>
-
 		<header>
-			<h1>
-				Technically, We're All Connected: A Profile of Three STEAM Students
+			<h1>Technically, We're All Connected: A Profile of Three STEAM Students
 			</h1>
 		</header>
-
 		<?php include "inc/nav.inc"; ?>
 
 	<main>
-
 		<h2 class="hometitle">
 			Lingling | Brief Introduction
 		</h2>
 
 		<figure class="img1">
-			<img src="img/lingling-headshot.jpg" alt="the picture of Lingling">
+			<img src="img/lingling-headshot.jpg" alt="Photo of Lingling Li">
 			<figcaption class="figcaption1">
 				Here is a picture of Lingling
 			</figcaption>
 		</figure>
-
 
 			<p>
 				My name is Lingling Li, and my English name is Lily. I come from Shanghai, China. I love playing the piano, drawing, cooking and playing badminton. I’m now a sophomore, and also the D’Lion in charge of Gate 6 and Gannett 6. My job is to help the first year students better adjust to their brand-new college life, and to be their first friend on campus. I’m planning to double major in Business and Digital Media Studies, and to minor in Japanese. <a href="lingling.php"> Read More...</a>
@@ -36,7 +31,7 @@
 		</h2>
 
 		<figure class="img2">
-			<img src="img/valerie-headshot.jpg" alt="Valerie Tam">
+			<img src="img/valerie-headshot.jpg" alt="Photo of Valerie Tam">
 			<figcaption class="figcaption1">
 				Here is a picture of Valerie
 			</figcaption>
@@ -52,7 +47,7 @@
 		</h2>
 
 		<figure class="img3" >
-			<img src="img/kevin-headshot.jpg" alt="Kevin Kao">
+			<img src="img/kevin-headshot.jpg" alt="Photo of Kevin Kao">
 			<figcaption class="caption">
 				Here is a picture of Kevin
 			</figcaption>
