@@ -43,7 +43,6 @@
 	<div class="bottom">This webpage by Team Vancouver.
 		</div>
 </footer>
-<?php include "inc/scripts.inc"; ?>
 
 </body>
 </html>

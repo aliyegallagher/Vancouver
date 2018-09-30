@@ -51,7 +51,5 @@
 		</div>
 </footer>
 
-<?php include "inc/scripts.inc"; ?>
-
 </body>
 </html>
