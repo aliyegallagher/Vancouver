@@ -1,5 +1,5 @@
 <?php
-$thisPage = "index";
+$isCurrent = "index";
 include "inc/html-top.inc";
 ?>
 	<title>Technically, We're All Connected: A Profile of Three STEAM Students
