@@ -12,14 +12,13 @@ include "inc/html-top.inc";
         <?php include "inc/nav.inc"; ?>
 
 <main>
-        <div class = "kevin"> <!-!!!-!>
+
 	<figure>
             <img src="img/kevin-headshot.jpg" alt="Photo of Kevin Kao">
             <figcaption>Here's a picture of Kevin
            	 </figcaption>
         </figure>
 
-        	</div>
 
      	<h2 class="title">About Me </h2>
        		 <p>Hello there! My name is Kevin Kao. I was born in New York, but gre up in Thailand during much of my adolescence! I am currently a sophomore double majoring in Computer Science and Mathematics at the University of Rochester.  Here I would like to share what triggers me to become a computer scientist and why I love technology so much!
