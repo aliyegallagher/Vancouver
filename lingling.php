@@ -1,5 +1,5 @@
 <?php
-$isCurrent = "lingling";
+$thisPage = "lingling";
 include "inc/html-top.inc";
 ?>
 	<title>Lingling Li</title>

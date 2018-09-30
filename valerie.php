@@ -1,5 +1,5 @@
 <?php
-$isCurrent = "valerie";
+$thisPage = "valerie";
 include "inc/html-top.inc";
 ?>
 	<title>Valerie Tam</title>
