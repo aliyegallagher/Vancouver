@@ -38,7 +38,7 @@ Neutral - #EFEFEF
 	color: #CAEBF2;
 }
 
-.menu .isCurrent a {
+.menu .isCurrent {
 	color: #FF383F;
 }
 
