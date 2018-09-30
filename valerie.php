@@ -13,7 +13,7 @@ include "inc/html-top.inc";
  <main>
 	<figure>
 		<img src="img/valerie-headshot.jpg" alt="Photo of Valerie Tam">
-		<figcaption>Here's a picture of Valerie
+		<figcaption>Here is a picture of Valerie
 			</figcaption>
 	</figure>
 

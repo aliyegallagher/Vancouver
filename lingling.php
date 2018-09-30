@@ -14,7 +14,7 @@ include "inc/html-top.inc";
 <main>
 	<figure>
 		<img src="img/lingling-headshot.jpg" alt="Photo of Lingling Li">
-		<figcaption>Here's a picture of Lingling
+		<figcaption>Here is a picture of Lingling
 			</figcaption>
 	</figure>
 
