@@ -1,4 +1,7 @@
-<?php include "inc/html-top.inc";?>
+<?php
+$thisPage = "lingling";
+include "inc/html-top.inc";
+?>
 	<title>Lingling Li</title>
 </head>
 
