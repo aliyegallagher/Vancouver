@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<?php include "inc/html-top.inc";?>
 	<title>Valerie Tam</title>
-	<link rel="stylesheet" type="text/css" href="css/current.css">
-	<link rel="stylesheet" href="css/styles.css">
-	<link rel="stylesheet" href="css/navigation.css">
-	<link rel="icon" href="img/icon.png">
 </head>
 <body>
 		<header>
@@ -17,20 +9,20 @@
 		<?php include "inc/nav.inc"; ?>
 
 		<main>
-			
+
 		<figure>
 				<img src="img/valerie-headshot.jpg" alt="Valerie Tam">
 				<figcaption>Here's a picture of Valerie</figcaption>
 			</figure>
 
 		<h2 class= "title">About Me</h2>
-			
+
 
 			<p>
 				I'm a sophomore at the University of Rochester majoring in data science with clusters in Chinese and Psychology. I love food, and love trying new restaurants and cafes!
 			</p>
 
-			
+
 
 		<h2 class= "title">Early Life and Education</h2>
 
@@ -44,12 +36,12 @@
 			<p>
 				The harder classes include BIO110 and CHM131. For me, BIO110 was more difficult because it focused mainly on the molecular level of biology. CHM131 was fine until I started to learn about acids and titrations. Another class that was intense was MTH162. Even though the AP exam gave me a good foundation, a lot of the topics were difficult to understand, such as series.
 			</p>
-			
 
-			
+
+
 
 		<h2 class= "title">Experience</h2>
-			
+
 			<p>
 				My first job was at Mini Ivy Tutoring Center, where I tutored elementary and middle school students in math and English. In addition, I performed various office administrative duties, such as keeping track of attendance and picking up phone calls. I am also the marketing director of the Hong Kong Students’ Association. As the marketing director, I update the club’s social media pages and create posters for events.
 			</p>
@@ -81,9 +73,9 @@
 			<div>
 				<a href="http://csc174.org/assignment01/vtam/index.html">Initial Personal Webpage | Valerie</a>
 			</div>
-	 		
+
 			<div class="bottom">
-			This webpage by Team Vancouver. 
+			This webpage by Team Vancouver.
 			</div>
 		</footer>
 
