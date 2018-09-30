@@ -46,7 +46,7 @@
 			Kevin | Brief Introduction
 		</h2>
 
-		<figure class="img3" >
+		<figure class="img3">
 			<img src="img/kevin-headshot.jpg" alt="Photo of Kevin Kao">
 			<figcaption class="caption">
 				Here is a picture of Kevin
