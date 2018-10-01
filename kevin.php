@@ -43,5 +43,6 @@ include "inc/html-top.inc";
 <footer>
 	<h2 class="title">Source</h2>
 	<div><a href="http://csc174.org/assignment01/kkao4/">Initial Personal Webpage | Kevin</a>
+	</div>
 
 <?php include "inc/html-bottom.inc";?>
