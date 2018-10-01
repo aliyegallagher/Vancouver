@@ -43,5 +43,5 @@ include "inc/html-top.inc";
 	<h2 class="title">Source</h2>
 	<div><a href="http://www.csc174.org/assignment01/lli53/index.php">Initial Personal Webpage | Lingling</a>
 		</div>
-		
+
 <?php include "inc/html-bottom.inc";?>
