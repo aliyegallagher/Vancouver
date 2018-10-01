@@ -25,4 +25,4 @@ Education", "Experience", and "Goals". Another subheading in the footer is title
 
 The index page is structured a bit differently. Each student has a snippet of their profile page shown, with a "read more" link at the end of the paragraph designed to carry them through seamlessly to the students' respective pages. The nav bar is also present at the top, so there are multiple ways to move about the site present even on the home page.
 
-Once on the individual students' pages, the navigation is featured at the top of the page, as well as at the bottom, to facilitate navigation between pages and make it less work for the user, as they won't have to scroll all the way back up the page to locate the site's navigation.
+One each page, the navigation is featured at the top of the page, as well as at the bottom, to facilitate navigation between pages and make it less work for the user, as they won't have to scroll all the way back up the page to locate the site's navigation.
